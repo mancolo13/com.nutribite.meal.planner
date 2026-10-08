@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.nutribite.meal.planner
 
 import io.flutter.embedding.android.FlutterActivity
 
